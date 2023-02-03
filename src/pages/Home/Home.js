@@ -169,8 +169,8 @@ const Home = () => {
           <SectionTitle title='Investors' />
           <ImageCard data={investorCardData} direction='bottom' />
           <p className="section-content text-center my-40">
-            Our mission is to be one of the fastest growing restaurant <br />companies and franchises, with portfolioof
-            leading <br /> and differentiated restaurant concepts.
+            Our mission is to be one of the fastest growing restaurant <br/>companies and franchises, with portfolioof
+            leading <br/> and differentiated restaurant concepts.
           </p>
           <Divider />
         </div>
@@ -185,7 +185,7 @@ const Home = () => {
           <SectionTitle title='Contact Us' />
           <div className="contact-wrapper">
             <div className="contact-form">
-              <TextField
+              <TextField 
                 fullWidth
                 placeholder='NAME'
                 className="form-input"
