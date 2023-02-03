@@ -185,7 +185,7 @@ const Home = () => {
           <SectionTitle title='Contact Us' />
           <div className="contact-wrapper">
             <div className="contact-form">
-              <TextField 
+              <TextField
                 fullWidth
                 placeholder='NAME'
                 className="form-input"
